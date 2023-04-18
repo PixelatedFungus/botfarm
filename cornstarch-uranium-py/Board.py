@@ -14,6 +14,12 @@ class Board():
 
     def getBoard(self) -> list:
         return self.board
+    
+    def getColor(self, square) -> str:
+        return self.board[square]['square_color']
+    
+    def checkScan(self):
+        pass
                 
     def translateLetterToNumber(self, column) -> int:
         match column:
