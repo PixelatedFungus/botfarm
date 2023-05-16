@@ -1,7 +1,0 @@
-C:\Users\wilsn\Projects\athena\cornstarch-uranium\cornstarch-uranium\bin\Debug\cornstarch-uranium.exe.config
-C:\Users\wilsn\Projects\athena\cornstarch-uranium\cornstarch-uranium\bin\Debug\cornstarch-uranium.exe
-C:\Users\wilsn\Projects\athena\cornstarch-uranium\cornstarch-uranium\bin\Debug\cornstarch-uranium.pdb
-C:\Users\wilsn\Projects\athena\cornstarch-uranium\cornstarch-uranium\obj\Debug\cornstarch-uranium.csproj.AssemblyReference.cache
-C:\Users\wilsn\Projects\athena\cornstarch-uranium\cornstarch-uranium\obj\Debug\cornstarch-uranium.csproj.CoreCompileInputs.cache
-C:\Users\wilsn\Projects\athena\cornstarch-uranium\cornstarch-uranium\obj\Debug\cornstarch-uranium.exe
-C:\Users\wilsn\Projects\athena\cornstarch-uranium\cornstarch-uranium\obj\Debug\cornstarch-uranium.pdb
