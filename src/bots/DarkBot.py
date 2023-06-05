@@ -1,6 +1,5 @@
 import pygame, os, sys
 from bots.Bot import Bot
-from util import Util
 
 class DarkBot(Bot):
 
